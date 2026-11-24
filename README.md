@@ -1,5 +1,11 @@
 # tiny-chess-engine
 
+[![make.fun bounty](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+![rank](https://make.fun/badge/tiny-chess-01/mikechen04/tiny-chess-engine/rank.svg)
+![reward](https://make.fun/badge/tiny-chess-01/mikechen04/tiny-chess-engine/reward.svg)
+
+Entry for the make.fun bounty: [Build the strongest chess engine in 4 KB of Python](https://make.fun/bounty/tiny-chess-01)
+
 A chess engine in a single Python file of 3,967 bytes, written for the "strongest chess engine in 4 KB of Python" challenge.
 
 - Standard library only, no python-chess.
